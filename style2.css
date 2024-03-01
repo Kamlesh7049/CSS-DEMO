@@ -5,7 +5,7 @@ div {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    /* shorthand */
+    /* Shorthand */
     background-image: url("/image.png");
 }
 div h1,
