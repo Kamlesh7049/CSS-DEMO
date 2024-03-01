@@ -1,0 +1,22 @@
+div {
+    height: 80vh;
+    border: 4px solid greenyellow;
+    background-image: url("/image.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* shorthand */
+    background-image: url("/image.png");
+}
+div h1,
+div p{
+    text-align: center;
+    color:black;
+}
+div h1{
+   color: brown;
+    font-size: 55px;
+}
+div p{
+   font-size: 30px;
+}
